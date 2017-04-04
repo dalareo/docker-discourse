@@ -1,7 +1,3 @@
-version: '2'
-  
-services:
-
   app:
 #    build: .
     image: dalareo/discourse
